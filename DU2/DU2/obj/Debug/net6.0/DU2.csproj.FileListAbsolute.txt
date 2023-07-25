@@ -1,0 +1,15 @@
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.csproj.AssemblyReference.cache
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.AssemblyInfoInputs.cache
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.AssemblyInfo.cs
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.csproj.CoreCompileInputs.cache
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\bin\Debug\net6.0\DU2.exe
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\bin\Debug\net6.0\DU2.deps.json
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\bin\Debug\net6.0\DU2.runtimeconfig.json
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\bin\Debug\net6.0\DU2.dll
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\bin\Debug\net6.0\DU2.pdb
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.dll
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\refint\DU2.dll
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.pdb
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\DU2.genruntimeconfig.cache
+C:\Users\tomuz\Skola\vsb\5_semestr\C#\DU2\DU2\obj\Debug\net6.0\ref\DU2.dll

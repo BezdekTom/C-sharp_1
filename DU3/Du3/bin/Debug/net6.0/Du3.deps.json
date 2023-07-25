@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Du3/1.0.0": {
+        "dependencies": {
+          "Messages": "1.0.0"
+        },
+        "runtime": {
+          "Du3.dll": {}
+        }
+      },
+      "Messages/1.0.0": {
+        "runtime": {
+          "Messages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Du3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+MEETING:
+Konzultace projektu
+15.10.2022 1:00:00;15.10.2022 2:00:00
+Petr;Kuba
+APPOINTMENT:
+Nákup
+14.10.2022 0:00:00;18.10.2022 0:00:00
+HOLIDAY:
+Podzimní dovolená
+16.11.2022 0:00:00;17.11.2022 0:00:00
+
+
+HOLIDAY:
+Výlet za teplem
+13.10.2022 0:00:00;17.10.2022 0:00:00
+Zanzibar
+Michala
